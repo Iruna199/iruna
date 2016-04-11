@@ -1,0 +1,5 @@
+#Mon Apr 11 19:15:41 EEST 2016
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=package
